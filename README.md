@@ -81,6 +81,6 @@ Actual evaluation results will be added after training and testing the models.
 This project is developed for educational and research purposes only. It is not a medical diagnostic tool. Predictions should not be used to diagnose or treat any medical condition. Consult a qualified healthcare professional for medical interpretation.
 
 ## 👨‍💻 Author
-**Your Name**
+Dharmendra kumar Singh
 
-GitHub: [(https://github.com/DharmendraKumarSingh-ai/)]
+GitHub: [(thakurdm64@gmail.com)(https://github.com/DharmendraKumarSingh-ai/)]
